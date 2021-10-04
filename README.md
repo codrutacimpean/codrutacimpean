@@ -1,0 +1,4 @@
+- Hi, I’m @codrutacimpean
+- I graduated the Front End and the Back End course from Atelierele Ilbah and I learned about HTML, CSS (Bootstrap), JavaScript, PHP, MySQL and Laravel
+- I’m currently learning React.Js from Udemy.com
+- I’m interested to work as a Front - End Developer
