@@ -2,4 +2,4 @@
 - I graduated the Front End and the Back End course from Atelierele Ilbah and I learned about HTML, CSS (Bootstrap), JavaScript, PHP, MySQL and Laravel
 - I’m currently learning React.Js from Udemy.com
 - I’m interested to work as a Front - End Developer
-- I want to develop my professional career and accumulate new knowledge by putting into practice the experience I gained, developing the profession in a competitive job, working in a topical and perspective field, at an appropriate level.
+- I consider myself a team person, hard-working and I like to set goals in both my personal and professional life and then strive to accomplish them.
